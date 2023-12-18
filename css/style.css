@@ -271,7 +271,7 @@ img {
 
 .third-section {
     background: var(--cloud);
-    padding: 120px 156px;
+    padding: 105px 141px;
 }
 
 .section-three-title {
@@ -290,6 +290,7 @@ img {
     flex-direction: row;
     gap: 24px;
     padding-inline-start: 0px;
+    padding-left: 0px;
 }
 
 .team-member-card {
